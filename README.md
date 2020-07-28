@@ -1,5 +1,4 @@
-https://tinder-a249a.web.app/
-Working <a>Demo</a>
+Working <a href="https://tinder-a249a.web.app/">Demo</a>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
